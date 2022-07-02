@@ -2,6 +2,7 @@
 
 [velog](https://velog.io/@dongeon110)
 
+![dongeon110's github stats](https://github-readme-stats.vercel.app/api?username=dongeon110&show_icons=true)
 <!--
 **dongeon110/dongeon110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
